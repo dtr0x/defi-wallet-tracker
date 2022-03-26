@@ -1,0 +1,5 @@
+__pycache__
+test*
+.~lock*
+data
+covalent_api_key.json
